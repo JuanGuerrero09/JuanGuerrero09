@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS and JS
 - 💞️ I’m looking to collaborate on funny projects
 - 📫 You can reach me here!
+- Currently learning in The Odin Project
 
 <!---
 JuanGuerrero09/JuanGuerrero09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
