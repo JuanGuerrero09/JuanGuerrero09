@@ -37,9 +37,9 @@
 - My favorite field in Civil Engineering is Seismic Design and I wrote my bachelor thesis about Displacement Based Seismic Design
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **🐱 My GitHub Data** 
 
@@ -115,7 +115,7 @@ C                        2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JuanGuerrero09/JuanGuerrero09/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2023 14:27:52 UTC
+ Last Updated on 27/02/2023 18:43:19 UTC
 <!--END_SECTION:waka-->
 
 
