@@ -27,8 +27,12 @@
 ## Learning
 
 - React useContext and useReducer
+- Node
 - Express
 - Mongo DB
+
+![image](https://user-images.githubusercontent.com/77643820/223018882-02b69b7c-a406-43b3-b377-52246f64a772.png)
+
 
 ## A little more about me
 - I like running, last year I went to my first two Half Marathon and I hope this year I can go to my first Marathon.
