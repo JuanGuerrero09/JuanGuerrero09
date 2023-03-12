@@ -20,7 +20,7 @@
 - 👋 I'm a Colombian/Spanish Web Developer and Civil Engineer.
 - 💻 I’m interested in Web Development and Data Science.
 - ⚛️ I’m currently learning React.
-- 💞️ I’m looking to collaborate on projects.
+- 💼 I’m looking to collaborate on projects.
 - 📫 You can reach me here!
 - 📚 Learning in The Odin Project and with @Midudev.
 
