@@ -1,5 +1,5 @@
 # Hi! This is Juan!
-### I'm Juan David, a 21 years old developer (and Civil Engineer) from Colombia.
+### I'm Juan David, a 22 years old developer (and Civil Engineer) from Colombia, based in Madrid.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JuanGuerrero09)](https://git.io/streak-stats)
 ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanGuerrero09&show_icons=true&theme=radical)
 
@@ -37,7 +37,7 @@
 ## A little more about me
 - I like running, last year I went to my first two Half Marathon and I hope this year I can go to my first Marathon.
 - I really like anime and manga
-- I'll be moving to Europe in two months after living all my life in Colombia
+- I'm currently working as an Engineer developing apps for my team
 - My favorite field in Civil Engineering is Seismic Design and I wrote my bachelor thesis about Displacement Based Seismic Design
 
 <!--START_SECTION:waka-->
